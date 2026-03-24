@@ -28,7 +28,7 @@ OWNER = os.environ.get("OWNER", "anujedits76") # Owner username without @
 OWNER_ID = int(os.environ.get("OWNER_ID", "7892805795")) # Owner id
 #--------------------------------------------
 PORT = os.environ.get("PORT", "8001")
-BASE_URL = os.environ.get("BASE_URL", "")  # e.g. https://your-domain.com
+BASE_URL = os.environ.get("BASE_URL", "mongodb+srv://Anujedit:Anujedit@cluster0.7cs2nhd.mongodb.net/?appName=Cluster0")  # e.g. https://your-domain.com
 #--------------------------------------------
 DB_URI = os.environ.get("DATABASE_URL", "")
 DB_NAME = os.environ.get("DATABASE_NAME", "Anujedit")
