@@ -41,9 +41,10 @@ START_PIC = os.environ.get("START_PIC", "https://telegra.ph/file/ec17880d61180d3
 FORCE_PIC = os.environ.get("FORCE_PIC", "https://telegra.ph/file/e292b12890b8b4b9dcbd1.jpg")
 
 #--------------------------------------------
-SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "linkshortify.com")
-SHORTLINK_API = os.environ.get("SHORTLINK_API", "")
-TUT_VID = os.environ.get("TUT_VID","https://t.me/log_channel_a/108")
+SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "ShrinkMe.com")
+SHORTLINK_API = os.environ.get("SHORTLINK_API", "05e572390d5a204da2ae17f59ff2fadfe2aaa23a
+For developers ShrinkMe.")
+TUT_VID = os.environ.get("TUT_VID","https://t.me/log_channel_a/109")
 SHORT_MSG = "<b>⌯ Here is Your Download Link, Must Watch Tutorial Before Clicking On Download...</b>"
 
 SHORTENER_PIC = os.environ.get("SHORTENER_PIC", "https://telegra.ph/file/ec17880d61180d3312d6a.jpg")
